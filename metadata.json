@@ -1,0 +1,6 @@
+{
+  "name": "ShivAmrit Healers — Store & Spiritual Wellness",
+  "description": "Authentic consecrated healing crystals, energized malas, Reiki bath salts, botanical herbal oils, and certified spiritual healing sessions by Reiki Grandmaster Parul Suthar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

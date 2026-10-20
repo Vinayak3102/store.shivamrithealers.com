@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build outputs
+dist/
+build/
+
+# Hostinger deployment packages (generate locally with npm run package:hostinger)
+*.zip
+*.tar.gz
+hostinger-deploy.zip
+
+# Testing & Automation
+coverage/
+.playwright-cli/
+test-results/
+
+# Environment & Local Configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor & OS files
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+
+# Temporary & Cache
+.cache/
+*.tmp
